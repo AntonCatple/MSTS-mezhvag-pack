@@ -3,4 +3,4 @@ Mezhvags for custom metrostroi trains
 
 Addon for garrys mod
 
-To download, press "releases" there ------>
+To download, press ["releases"](https://github.com/AntonCatple/MSTS-mezhvag-pack/releases)
